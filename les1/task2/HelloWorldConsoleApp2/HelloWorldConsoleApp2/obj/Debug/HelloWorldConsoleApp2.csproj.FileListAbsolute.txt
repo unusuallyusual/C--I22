@@ -1,0 +1,6 @@
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task2\HelloWorldConsoleApp2\HelloWorldConsoleApp2\bin\Debug\HelloWorldConsoleApp2.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task2\HelloWorldConsoleApp2\HelloWorldConsoleApp2\bin\Debug\HelloWorldConsoleApp2.exe
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task2\HelloWorldConsoleApp2\HelloWorldConsoleApp2\bin\Debug\HelloWorldConsoleApp2.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task2\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\HelloWorldConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task2\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\HelloWorldConsoleApp2.exe
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task2\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\HelloWorldConsoleApp2.pdb

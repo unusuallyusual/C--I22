@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task1\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\HelloWorldConsoleApp1.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task1\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\HelloWorldConsoleApp1.exe
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task1\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\HelloWorldConsoleApp1.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task1\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\HelloWorldConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task1\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\HelloWorldConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task1\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\HelloWorldConsoleApp1.exe
+C:\Users\med11\Documents\skillbox\C#\practice\lev1\task1\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\HelloWorldConsoleApp1.pdb
