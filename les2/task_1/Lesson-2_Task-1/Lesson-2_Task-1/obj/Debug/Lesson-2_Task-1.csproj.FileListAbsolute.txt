@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\les2\task_1\Lesson-2_Task-1\Lesson-2_Task-1\bin\Debug\Lesson-2_Task-1.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\les2\task_1\Lesson-2_Task-1\Lesson-2_Task-1\bin\Debug\Lesson-2_Task-1.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les2\task_1\Lesson-2_Task-1\Lesson-2_Task-1\bin\Debug\Lesson-2_Task-1.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\les2\task_1\Lesson-2_Task-1\Lesson-2_Task-1\obj\Debug\Lesson-2_Task-1.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les2\task_1\Lesson-2_Task-1\Lesson-2_Task-1\obj\Debug\Lesson-2_Task-1.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les2\task_1\Lesson-2_Task-1\Lesson-2_Task-1\obj\Debug\Lesson-2_Task-1.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les2\task_1\Lesson-2_Task-1\Lesson-2_Task-1\obj\Debug\Lesson-2_Task-1.pdb
