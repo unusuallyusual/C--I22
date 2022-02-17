@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task1\EvenOddNumbers\EvenOddNumbers\bin\Debug\EvenOddNumbers.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task1\EvenOddNumbers\EvenOddNumbers\bin\Debug\EvenOddNumbers.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task1\EvenOddNumbers\EvenOddNumbers\bin\Debug\EvenOddNumbers.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task1\EvenOddNumbers\EvenOddNumbers\obj\Debug\EvenOddNumbers.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task1\EvenOddNumbers\EvenOddNumbers\obj\Debug\EvenOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task1\EvenOddNumbers\EvenOddNumbers\obj\Debug\EvenOddNumbers.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task1\EvenOddNumbers\EvenOddNumbers\obj\Debug\EvenOddNumbers.pdb

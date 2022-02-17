@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task3\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task3\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task3\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task3\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task3\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task3\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les3\task3\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
