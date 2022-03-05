@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task1\RandomMatrix\RandomMatrix\bin\Debug\RandomMatrix.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task1\RandomMatrix\RandomMatrix\bin\Debug\RandomMatrix.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task1\RandomMatrix\RandomMatrix\bin\Debug\RandomMatrix.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task1\RandomMatrix\RandomMatrix\obj\Debug\RandomMatrix.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task1\RandomMatrix\RandomMatrix\obj\Debug\RandomMatrix.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task1\RandomMatrix\RandomMatrix\obj\Debug\RandomMatrix.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task1\RandomMatrix\RandomMatrix\obj\Debug\RandomMatrix.pdb

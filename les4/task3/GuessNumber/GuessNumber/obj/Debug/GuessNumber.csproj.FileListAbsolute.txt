@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task3\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task3\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task3\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task3\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task3\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task3\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task3\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

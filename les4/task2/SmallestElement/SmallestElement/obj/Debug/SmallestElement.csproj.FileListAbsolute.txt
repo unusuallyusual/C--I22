@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task2\SmallestElement\SmallestElement\bin\Debug\SmallestElement.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task2\SmallestElement\SmallestElement\bin\Debug\SmallestElement.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task2\SmallestElement\SmallestElement\bin\Debug\SmallestElement.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task2\SmallestElement\SmallestElement\obj\Debug\SmallestElement.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task2\SmallestElement\SmallestElement\obj\Debug\SmallestElement.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task2\SmallestElement\SmallestElement\obj\Debug\SmallestElement.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les4\task2\SmallestElement\SmallestElement\obj\Debug\SmallestElement.pdb
