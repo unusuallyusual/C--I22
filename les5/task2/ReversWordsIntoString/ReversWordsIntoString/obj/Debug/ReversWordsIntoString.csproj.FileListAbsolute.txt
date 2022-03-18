@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task2\ReversWordsIntoString\ReversWordsIntoString\bin\Debug\ReversWordsIntoString.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task2\ReversWordsIntoString\ReversWordsIntoString\bin\Debug\ReversWordsIntoString.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task2\ReversWordsIntoString\ReversWordsIntoString\bin\Debug\ReversWordsIntoString.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task2\ReversWordsIntoString\ReversWordsIntoString\obj\Debug\ReversWordsIntoString.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task2\ReversWordsIntoString\ReversWordsIntoString\obj\Debug\ReversWordsIntoString.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task2\ReversWordsIntoString\ReversWordsIntoString\obj\Debug\ReversWordsIntoString.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task2\ReversWordsIntoString\ReversWordsIntoString\obj\Debug\ReversWordsIntoString.pdb

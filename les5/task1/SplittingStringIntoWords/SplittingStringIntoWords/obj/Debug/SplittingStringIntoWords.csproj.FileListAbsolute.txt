@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task1\SplittingStringIntoWords\SplittingStringIntoWords\bin\Debug\SplittingStringIntoWords.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task1\SplittingStringIntoWords\SplittingStringIntoWords\bin\Debug\SplittingStringIntoWords.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task1\SplittingStringIntoWords\SplittingStringIntoWords\bin\Debug\SplittingStringIntoWords.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task1\SplittingStringIntoWords\SplittingStringIntoWords\obj\Debug\SplittingStringIntoWords.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task1\SplittingStringIntoWords\SplittingStringIntoWords\obj\Debug\SplittingStringIntoWords.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task1\SplittingStringIntoWords\SplittingStringIntoWords\obj\Debug\SplittingStringIntoWords.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les5\task1\SplittingStringIntoWords\SplittingStringIntoWords\obj\Debug\SplittingStringIntoWords.pdb
