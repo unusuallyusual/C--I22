@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\practice\les6\DirectoryEmployees\DirectoryEmployees\bin\Debug\DirectoryEmployees.exe.config
+C:\Users\med11\Documents\skillbox\C#\practice\les6\DirectoryEmployees\DirectoryEmployees\bin\Debug\DirectoryEmployees.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les6\DirectoryEmployees\DirectoryEmployees\bin\Debug\DirectoryEmployees.pdb
+C:\Users\med11\Documents\skillbox\C#\practice\les6\DirectoryEmployees\DirectoryEmployees\obj\Debug\DirectoryEmployees.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les6\DirectoryEmployees\DirectoryEmployees\obj\Debug\DirectoryEmployees.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\practice\les6\DirectoryEmployees\DirectoryEmployees\obj\Debug\DirectoryEmployees.exe
+C:\Users\med11\Documents\skillbox\C#\practice\les6\DirectoryEmployees\DirectoryEmployees\obj\Debug\DirectoryEmployees.pdb
