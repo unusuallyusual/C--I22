@@ -1,0 +1,7 @@
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les7\Structures\Structures\bin\Debug\Structures.exe.config
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les7\Structures\Structures\bin\Debug\Structures.exe
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les7\Structures\Structures\bin\Debug\Structures.pdb
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les7\Structures\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les7\Structures\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les7\Structures\Structures\obj\Debug\Structures.exe
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les7\Structures\Structures\obj\Debug\Structures.pdb
