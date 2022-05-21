@@ -1,0 +1,14 @@
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les8\task4\task4\task4\bin\Debug\task4.exe.config
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les8\task4\task4\task4\bin\Debug\task4.exe
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les8\task4\task4\task4\bin\Debug\task4.pdb
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les8\task4\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les8\task4\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les8\task4\task4\task4\obj\Debug\task4.exe
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les8\task4\task4\task4\obj\Debug\task4.pdb
+D:\С#\task4\task4\bin\Debug\task4.exe.config
+D:\С#\task4\task4\bin\Debug\task4.exe
+D:\С#\task4\task4\bin\Debug\task4.pdb
+D:\С#\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+D:\С#\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+D:\С#\task4\task4\obj\Debug\task4.exe
+D:\С#\task4\task4\obj\Debug\task4.pdb
