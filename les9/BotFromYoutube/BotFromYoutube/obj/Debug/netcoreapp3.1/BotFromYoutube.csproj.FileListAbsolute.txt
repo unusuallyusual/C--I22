@@ -1,0 +1,17 @@
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\bin\Debug\netcoreapp3.1\BotFromYoutube.exe
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\bin\Debug\netcoreapp3.1\BotFromYoutube.deps.json
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\bin\Debug\netcoreapp3.1\BotFromYoutube.runtimeconfig.json
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\bin\Debug\netcoreapp3.1\BotFromYoutube.runtimeconfig.dev.json
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\bin\Debug\netcoreapp3.1\BotFromYoutube.dll
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\bin\Debug\netcoreapp3.1\BotFromYoutube.pdb
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\obj\Debug\netcoreapp3.1\BotFromYoutube.csproj.AssemblyReference.cache
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\obj\Debug\netcoreapp3.1\BotFromYoutube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\obj\Debug\netcoreapp3.1\BotFromYoutube.AssemblyInfoInputs.cache
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\obj\Debug\netcoreapp3.1\BotFromYoutube.AssemblyInfo.cs
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\obj\Debug\netcoreapp3.1\BotFromYoutube.csproj.CoreCompileInputs.cache
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\obj\Debug\netcoreapp3.1\BotFromYoutube.csproj.CopyComplete
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\obj\Debug\netcoreapp3.1\BotFromYoutube.dll
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\obj\Debug\netcoreapp3.1\BotFromYoutube.pdb
+C:\Users\med11\Documents\skillbox\C#\pract\C--I22\les9\BotFromYoutube\BotFromYoutube\obj\Debug\netcoreapp3.1\BotFromYoutube.genruntimeconfig.cache
