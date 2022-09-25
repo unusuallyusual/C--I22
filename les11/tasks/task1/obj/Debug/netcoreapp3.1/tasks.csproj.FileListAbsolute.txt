@@ -1,0 +1,14 @@
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\bin\Debug\netcoreapp3.1\tasks.exe
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\bin\Debug\netcoreapp3.1\tasks.deps.json
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\bin\Debug\netcoreapp3.1\tasks.runtimeconfig.json
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\bin\Debug\netcoreapp3.1\tasks.runtimeconfig.dev.json
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\bin\Debug\netcoreapp3.1\tasks.dll
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\bin\Debug\netcoreapp3.1\tasks.pdb
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\obj\Debug\netcoreapp3.1\tasks.csproj.AssemblyReference.cache
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\obj\Debug\netcoreapp3.1\tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\obj\Debug\netcoreapp3.1\tasks.AssemblyInfoInputs.cache
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\obj\Debug\netcoreapp3.1\tasks.AssemblyInfo.cs
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\obj\Debug\netcoreapp3.1\tasks.csproj.CoreCompileInputs.cache
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\obj\Debug\netcoreapp3.1\tasks.dll
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\obj\Debug\netcoreapp3.1\tasks.pdb
+C:\SKILLBOX\C#\pract\C--I22\les11\tasks\task1\obj\Debug\netcoreapp3.1\tasks.genruntimeconfig.cache
